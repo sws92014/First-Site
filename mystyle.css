@@ -1,0 +1,22 @@
+h1{
+	color: #c991e2;
+}
+
+body{
+	background-color: #01263b;
+	color: white;
+	font-family: "Arial";
+}
+
+h2{
+	color: #c991e2;
+	font-style: italic;
+	font-family: "Arial"
+
+}
+
+section{
+	background-color: #01263b;
+	color: white;
+	font-family: "Arial";
+}
